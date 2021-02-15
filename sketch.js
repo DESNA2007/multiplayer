@@ -16,7 +16,7 @@ function preload() {
 
 function setup(){
 
-    var canvas = createCanvas(1800,900);
+    var canvas = createCanvas(1920,937);
     engine = Engine.create();
     world = engine.world;
 tracker= createSprite(90,350,50,50)
